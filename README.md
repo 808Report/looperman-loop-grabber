@@ -41,7 +41,7 @@ Open notepad (or code editor) and paste in the commands above then save as a ```
 
 ## Authors
 
-- [@ProducerScriptz](https://github.com/ProducerScriptz)
+- [@808Report](https://github.com/808Report)
 
 ## License
 
